@@ -3,7 +3,7 @@
 
 ### Sobre mim
 <div style="display: inline_block"  >
-<img align="right" width="150" height="150" style="border-radius:30px;" src="https://ddragon.leagueoflegends.com/cdn/11.21.1/img/profileicon/4359.png" />
+<img align="right" width="150" height="150" style="border-radius:30px;" src="https://ddragon.leagueoflegends.com/cdn/11.21.1/img/profileicon/4359.png" alt="Minha main no lolzinho <3">
 <p> - 📱 Costume Service Advisor na Concentrix </p>
 <p> - 👩🏾‍🎓 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Impacta. </p>
 <p> - 🎶 Meu gosto musical pode variar entre pop, funk, kpop, forró, rock clássico, axé, sertanejo e outros gêneros. </p>
