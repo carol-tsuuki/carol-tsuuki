@@ -4,7 +4,6 @@
 ### Sobre mim
 <div style="display: inline_block"  >
 <img align="right" width="150" height="150" style="border-radius:30px;" src="https://ddragon.leagueoflegends.com/cdn/11.21.1/img/profileicon/4359.png" alt="Minha main no lolzinho <3">
-<p> - 📱 Costume Service Advisor na Concentrix </p>
 <p> - 👩🏾‍🎓 Estou no 1° semestre de Análise e Desenvolvimento de Sistemas na Faculdade Impacta. </p>
 <p> - 🎶 Meu gosto musical pode variar entre pop, funk, kpop, forró, rock clássico, axé, sertanejo e outros gêneros. </p>
 <p> - 😼 Amo One Piece, gatinhos e League of Legends (Fun fact: tatuei a Nico Robin e tenho uma gata chamada Nami) </p>
@@ -14,23 +13,22 @@
 
 ## O que estou aprendendo:relaxed:
 <div align="center">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-    alt="html5">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-    alt="css3">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" 
-    alt="phpzinho">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
     alt="mysql">
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
     alt="git">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python">
-   
+    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/826px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png"
+    alt="git">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://qbico.pl/wp-content/uploads/2021/03/ms-power-bi-main.png"
+    alt="git">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 </div>
 
 ## Como falar comigo :iphone:
