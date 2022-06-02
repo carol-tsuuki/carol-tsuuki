@@ -6,9 +6,7 @@
 <img align="right" width="150" height="150" style="border-radius:30px;" src="https://ddragon.leagueoflegends.com/cdn/11.21.1/img/profileicon/4359.png" alt="Minha main no lolzinho <3">
 <p> - 👩🏾‍🎓 Estou no 1° semestre de Análise e Desenvolvimento de Sistemas na Faculdade Impacta. </p>
 <p> - 🎶 Meu gosto musical pode variar entre pop, funk, kpop, forró, rock clássico, axé, sertanejo e outros gêneros. </p>
-<p> - 😼 Amo One Piece, gatinhos e League of Legends (Fun fact: tatuei a Nico Robin e tenho uma gata chamada Nami) </p>
-<p> - ✅ Interesses: Contribuir com o open source pois eu sei que nem todos tiveram as mesmas oportunidades que eu tive. </p>
-  
+<p> - 😼 Amo One Piece, gatinhos e League of Legends (Fun fact: tatuei a Nico Robin e tenho uma gata chamada Nami) </p>  
 </div>
 
 ## O que estou aprendendo:relaxed:
