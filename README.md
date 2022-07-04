@@ -1,6 +1,5 @@
 
-## Oie, é a Carol! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-
+## Oie, é a Carol!
 ### Sobre mim
 <div style="display: inline_block"  >
 <img align="right" width="150" height="150" style="border-radius:30px;" src="https://ddragon.leagueoflegends.com/cdn/11.21.1/img/profileicon/4359.png" alt="Minha main no lolzinho <3">
